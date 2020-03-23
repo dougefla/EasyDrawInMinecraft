@@ -1,8 +1,10 @@
 # EasyDrawInMinecraft
 A mcfunction generator for drawing in minecraft
+## Demo
+http://draw.douge.net.cn/
 
-![TIM图片20200322183530.png](https://i.loli.net/2020/03/22/SXLreqn1NDQ3gbw.png)
 ## 问题背景
+![TIM图片20200322183530.png](https://i.loli.net/2020/03/22/SXLreqn1NDQ3gbw.png)
 在Minecraft中，一条/fill指令可以将从(x1,y1,z1)到(x2,y2,z2)的立方空间填充为单一颜色的方块。  
 
 那我们如果想将一张128\*128的黑白二值图片在MC中进行展示，如果逐像素进行填充，相应的需要128\*128 = 16384条指令。  
