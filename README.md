@@ -3,6 +3,9 @@ A mcfunction generator for drawing in minecraft
 ## Demo
 http://draw.douge.net.cn/
 
+## Develop Log
+- 2020/04/26: V0.1.3 开发中
+
 ## 问题背景
 ![TIM图片20200322183530.png](https://i.loli.net/2020/03/22/SXLreqn1NDQ3gbw.png)
 在Minecraft中，一条/fill指令可以将从(x1,y1,z1)到(x2,y2,z2)的立方空间填充为单一颜色的方块。  
